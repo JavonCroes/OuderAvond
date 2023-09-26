@@ -71,7 +71,7 @@ nav ul li ul li a:hover {
 }
 
 .profileButch{
-    margin: 20vh 0px 0px -300px;
+    margin: 20vh 0px 0px -750px;
     width: 25vw;
 }
 
@@ -79,7 +79,7 @@ nav ul li ul li a:hover {
     color: white;
     text-align: center;
     margin: -360px 0px 0px 550px;
-    font-size: 32px;
+    font-size: 26px;
     font-family: Arial;
 }
 
@@ -87,6 +87,7 @@ nav ul li ul li a:hover {
     text-align: center;
     list-style-position: inside;
 }
+
 
 
 
