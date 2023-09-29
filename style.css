@@ -81,39 +81,33 @@ nav img{
     background: #009c6be3;
     transition: 0.8s;
 }
-
   
-  .left {
-    left: 0;
-    
-  }
-  
-  .right {
-    right: 0;
-    
-    
-  }
-  
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    color: white;
-    
-  }
-  
-  .centered img {
+  .Butch1{
     width: 150px;
     border-radius: 50%;
+    margin: 5% 0px 0px 700px;
+    display: flex;
+    justify-content: space-between;
+    
   }
-  
-  
-  .Javon{
-    margin: 0px 0px 0px 600px;
+  .Javon1{
+    width: 150px;
+    border-radius: 50%;
+    margin: 5% 0px 0px 700px;
+    display: flex;
+    justify-content: space-between;
   }
+
   .Butch{
-    margin: 0px 600px 0px 0px;
+    color: white;
+    margin: 0 0 0 700px;
+    
   }
+  .Javon{
+    color: white;
+    margin: 0 0 0 700px;
+  }
+  
+  
+  
 
