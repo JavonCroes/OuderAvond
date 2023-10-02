@@ -108,6 +108,22 @@ nav img{
     margin: 0 0 0 700px;
   }
   
-  
-  
+.DivButch{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    gap: 10rem;
+}
+.DivButchIMG{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.DivButchList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+}
