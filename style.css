@@ -127,3 +127,23 @@ nav img{
     font-size: 24px;
     color: white;
 }
+
+.DivJavon{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    gap: 10rem;
+}
+.DivJavonIMG{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.DivJavonList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+}
