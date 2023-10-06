@@ -170,4 +170,15 @@ nav img{
     display: flex;
     justify-content: space-between;
 }
-
+.row1 img{
+    width: 50vw;
+}
+.row2 img{
+    width: 50vw;
+}
+.row3 img{
+    width: 50vw;
+}
+.row4 img{
+    width: 50vw;
+}
