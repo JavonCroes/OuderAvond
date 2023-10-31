@@ -81,6 +81,22 @@ nav img{
     background: #009c6be3;
     transition: 0.8s;
 }
+.hero-btn2{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 1px solid #515151;
+    padding: 12px 34px;
+    font-size: 13px;
+    
+    position: relative;
+    cursor: pointer;
+}
+.hero-btn2:hover{
+    border: 1px solid #009c6be3;
+    background: #009c6be3;
+    transition: 0.8s;
+}
   
   .Butch1{
     width: 150px;
